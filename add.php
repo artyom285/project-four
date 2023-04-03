@@ -18,10 +18,6 @@
             header("location: index.php");
         }
     }
-
-    if(isset($_POST["cancel"])) {
-        header("location: index.php");
-    }
 ?>
 
 <!DOCTYPE html>
